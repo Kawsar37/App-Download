@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+#credit {
+    position: relative;
+    bottom: 0;
+    right: 0;
+    margin-left: 1rem;
+    font-size: 0.7rem;
+    color: #666;
+}
